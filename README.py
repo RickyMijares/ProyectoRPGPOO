@@ -1,9 +1,11 @@
-#RPG PROYECTO DE POO
-RPG POR TURNO EN COSOLA PARA LA CLASE DE PROGRAMACION ORIENTADA A OBJETOS
+#RPG PROYECTO POO
 
-## Como ejecutarlo
+#RPG POR TURNO EN CONSOLA PARA LA CLASE DE PROGRAMACION ORIENTADA A OBJETOS
 
-Ejecuta el siguiente comando en la terminal ubicada en la carpeta del proyecto *"python main.py"*
+# COMO EJECUTARLO
 
-## Autor
-Ricardo Mijares Sauceda
+# EJECUTA EL SIGUIENTE COMANDO EN LA TERMINAL UBICADA EN LA CAR
+#DEL PROYECTO "python main.py"
+
+#autor
+#Ricardo Mijares Sauceda
